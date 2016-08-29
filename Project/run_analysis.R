@@ -15,6 +15,7 @@
 library(data.table)
 library(reshape2)
 
+# Set your working directory before proceeding
 # Set path
 path <- getwd()
 path
